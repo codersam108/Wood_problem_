@@ -1,0 +1,3 @@
+/Users/a1/Desktop/Coding/Wood problem'/cmake-build-debug/CMakeFiles/Wood_problem_.dir
+/Users/a1/Desktop/Coding/Wood problem'/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/a1/Desktop/Coding/Wood problem'/cmake-build-debug/CMakeFiles/rebuild_cache.dir
